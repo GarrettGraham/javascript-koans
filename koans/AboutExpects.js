@@ -1,4 +1,3 @@
-
 describe("About Expects", function() {
 
   // We shall contemplate truth by testing reality, via spec expectations.
